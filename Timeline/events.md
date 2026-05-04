@@ -22,17 +22,17 @@ The script was designed to appear legitimate by opening Notepad while executing 
 
 The script collects system network configuration using ipconfig and stores the output in "capture.txt".
 
-![Hash Verification](../screen_shot/artifact8.png)
+![Hash Verification](../screen_shot/artifact15.png)
 
 
 The script executes a traceroute command to an external server and logs the results in "log.txt".
 
-![Hash Verification](../screen_shot/artifact8.png)
+![Hash Verification](../screen_shot/artifact16.png)
 
 
 The script captures running processes using tasklist and saves the output in "user.txt".
 
-![Hash Verification](../screen_shot/artifact8.png)
+![Hash Verification](../screen_shot/artifact16.png)
 
 
 The file "login.txt" was deleted at 01:25, indicating possible attempt to remove sensitive evidence.
@@ -45,7 +45,7 @@ A compressed archive (ZIP file) was created at 01:26, suggesting data collection
 ![Hash Verification](../screen_shot/artifact8.png)
 
 
-A folder named "hackers" was deleted at 01:27, indicating cleanup or concealment of activity.
+A folder named "hacks" was deleted at 01:27, indicating cleanup or concealment of activity.
 
 ![Hash Verification](../screen_shot/artifact8.png)
 
