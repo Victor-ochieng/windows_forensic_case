@@ -1,3 +1,3 @@
-The disk image integrity was confirmed as the original and acquired SHA256 hashes matched.
+The system was identified as a Windows machine using the NTFS file system based on disk analysis.
 
-![Hash Verification](../screen_shot/hashes.png)
+![Hash Verification](../screen_shot/disk_info2.png)
