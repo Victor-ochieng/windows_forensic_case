@@ -1,4 +1,4 @@
-# Windows Forensic Investigation – Suspicious Script Activity
+# Windows Forensic Investigation 
 
 ## Overview
 
