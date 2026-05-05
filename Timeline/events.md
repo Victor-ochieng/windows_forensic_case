@@ -27,37 +27,35 @@ The script collects system network configuration using ipconfig and stores the o
 
 The script executes a traceroute command to an external server and logs the results in "log.txt".
 
-![Hash Verification](../screen_shot/artifact16.png)
+![Hash Verification](../screen_shot/artifact17.png)
 
 
 The script captures running processes using tasklist and saves the output in "user.txt".
 
-![Hash Verification](../screen_shot/artifact16.png)
+![Hash Verification](../screen_shot/artifact18.png)
 
 
-The file "login.txt" was deleted at 01:25, indicating possible attempt to remove sensitive evidence.
+The file "logins.txt" was deleted at 01:25, indicating possible attempt to remove sensitive evidence.
 
-![Hash Verification](../screen_shot/artifact8.png)
+![Hash Verification](../screen_shot/artifact19.png)
 
 
 A compressed archive (ZIP file) was created at 01:26, suggesting data collection or packaging activity.
 
-![Hash Verification](../screen_shot/artifact8.png)
+![Hash Verification](../screen_shot/artifact13.png)
 
 
 A folder named "hacks" was deleted at 01:27, indicating cleanup or concealment of activity.
 
-![Hash Verification](../screen_shot/artifact8.png)
+![Hash Verification](../screen_shot/artifact5.png)
 
 
 Multiple output files including "capture.txt", "log.txt", and "user.txt" were created at 01:28.
 
-![Hash Verification](../screen_shot/artifact8.png)
+![Hash Verification](../screen_shot/artifact20.png)
 
 
 The generated files contain network details, traceroute paths, and running system processes, indicating system reconnaissance activity.
-
-![Hash Verification](../screen_shot/artifact8.png)
 
 
 A ZIP folder was created at 01:28, likely used to group collected data for storage or exfiltration.
