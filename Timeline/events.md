@@ -24,6 +24,7 @@ The script collects system network configuration using ipconfig and stores the o
 
 ![Hash Verification](../screen_shot/artifact15.png)
 
+![Hash Verification](../screen_shot/artifact1.png)
 
 The script executes a traceroute command to an external server and logs the results in "log.txt".
 
