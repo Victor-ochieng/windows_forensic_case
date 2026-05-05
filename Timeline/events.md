@@ -28,10 +28,14 @@ The script collects system network configuration using ipconfig and stores the o
 
 The script executes a traceroute command to an external server and logs the results in "log.txt".
 
+![Hash Verification](../screen_shot/artifact16.png)
+
 ![Hash Verification](../screen_shot/artifact17.png)
 
 
 The script captures running processes using tasklist and saves the output in "user.txt".
+
+![Hash Verification](../screen_shot/artifact16.png)
 
 ![Hash Verification](../screen_shot/artifact18.png)
 
