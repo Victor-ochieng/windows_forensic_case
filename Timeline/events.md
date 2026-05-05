@@ -1,4 +1,4 @@
-User accessed web search queries related to WiFi sniffing between 00:53 and 00:54.
+User accessed web search queries related to WiFi sniffing between 00:53 and 00:55.
 
 ![Hash Verification](../screen_shot/artifact8.png)
 ![Hash Verification](../screen_shot/artifact10.png)
